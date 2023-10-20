@@ -20,5 +20,7 @@ Anotações durante a primeira aula (19/10/2023):
   * Gherkin é uma linguagem que foi criada especialmente para descrições de comportamento.
   * Remove detalhes da lógica de programação e foca no comportamento que uma funcionalidade deve ter.
 - Dado; Quando; Então;
-- 
+- Digitando com Gherkin;
+- Instalei uma extensão do Cucumber no VSCODE; 
+-
    
