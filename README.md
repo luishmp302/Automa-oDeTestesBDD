@@ -22,5 +22,12 @@ Anotações durante a primeira aula (19/10/2023):
 - Dado; Quando; Então;
 - Digitando com Gherkin;
 - Instalei uma extensão do Cucumber no VSCODE; 
--
-   
+------------------------------------------------------------------------------------------------------;
+Anotações durante a segunda aula (20/10/2023):
+- Começando a usar outros conceitos no Gherkin; 
+- Esquema de cenário; E; Exemplos; 
+- Finalizando conceitos de Gherkin; 
+- Iniciando conceitos de Cyprees e NodeJS;
+- Cypress é uma ferramenta de teste de frontend para aplicações web;
+- Criando terminal; 
+- Instalou o cypress através do comando "npm init –y" e "npm install cypress –D"
